@@ -1,4 +1,4 @@
-# <center>**MANUAL DE DESPESAS**<center>
+# <center>**MANUAL DE DESPESAS**</center>
 
 ## **339040-XX SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNIC. – PJ**
 ## **339040-23**
